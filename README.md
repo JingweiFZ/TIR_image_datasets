@@ -117,7 +117,7 @@ A curated list of publicly available thermal infrared image datasets for compute
 - **Description**: UAV-based thermal infrared imagery for urban scene analysis
 - **Link**: [KIT Campus Dataset](http://www.cvlibs.net/datasets/karlsruhe_sequences/)
 - **Key Features**: Aerial thermal imagery, urban environments, multi-sensor data
-- **Paper**: Various publications from KIT
+- **Paper**: N/A (Multiple datasets from KIT research)
 - **Additional Modalities**: May include lidar point clouds, 3D models
 
 ### TUM2TWIN Dataset
