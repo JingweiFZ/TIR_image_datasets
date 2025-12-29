@@ -136,7 +136,7 @@ A curated list of publicly available thermal infrared image datasets for compute
 
 #### Thermal Anomaly Dataset (KIT District Heating)
 - **Description**: Thermal infrared images for pipeline leak detection in district heating systems
-- **Link**: [KIT Thermal Anomaly Dataset](https://publikationen.bibliothek.kit.edu/1000183573)
+- **Link**: [KIT Thermal Anomaly Dataset](https://publikationen.bibliothek.kit.edu/1000183573, https://zenodo.org/records/11085776)
 - **Key Features**: UAV thermal imagery for district heating network analysis, validates deep learning vs traditional vision
 - **Paper**: Available at KITopen
 - **Additional Modalities**: N/A
