@@ -10,7 +10,6 @@ A curated list of publicly available thermal infrared image datasets for compute
 - [Scene Understanding](#scene-understanding)
 - [Face & Person Recognition](#face--person-recognition)
 - [Multi-Modal Datasets](#multi-modal-datasets)
-- [Other Applications](#other-applications)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -46,7 +45,7 @@ A curated list of publicly available thermal infrared image datasets for compute
 - **Description**: Collection of thermal and visible imagery for various computer vision tasks
 - **Link**: [OTCBVS](http://vcipl-okstate.org/pbvs/bench/)
 - **Key Features**: Multiple datasets including pedestrian detection, segmentation, and tracking
-- **Paper**: Various papers
+- **Paper**: N/A (Collection of multiple datasets)
 
 ## Semantic Segmentation
 
@@ -103,26 +102,6 @@ A curated list of publicly available thermal infrared image datasets for compute
 - **Link**: [VEDAI Dataset](https://downloads.greyc.fr/vedai/)
 - **Key Features**: 1,210 image pairs, 9 vehicle categories, aerial perspective
 - **Paper**: "Vehicle Detection in Aerial Imagery: A small target detection benchmark" (Journal of Visual Communication and Image Representation 2016)
-
-## Other Applications
-
-### TerraSAR-X Dataset
-- **Description**: Thermal infrared images for various remote sensing applications
-- **Link**: Various sources - check research papers
-- **Key Features**: High-resolution thermal imagery, remote sensing applications
-- **Paper**: Various
-
-### UAV-Based Thermal Dataset
-- **Description**: Thermal images captured from UAV platforms
-- **Link**: Various sources - check research papers
-- **Key Features**: Aerial thermal imagery, various applications (agriculture, search & rescue, etc.)
-- **Paper**: Various
-
-### Thermal Pedestrian Tracking Benchmark
-- **Description**: Benchmark dataset for tracking pedestrians in thermal imagery
-- **Link**: [Tracking Benchmark](http://www.cvlibs.net/datasets/)
-- **Key Features**: Sequences with ground truth annotations
-- **Paper**: Various
 
 ## Contributing
 
