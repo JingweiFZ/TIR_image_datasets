@@ -10,6 +10,7 @@ A curated list of publicly available thermal infrared image datasets for compute
 - [Scene Understanding](#scene-understanding)
 - [Face & Person Recognition](#face--person-recognition)
 - [Multi-Modal Datasets](#multi-modal-datasets)
+- [Building Analysis](#building-analysis)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -102,6 +103,36 @@ A curated list of publicly available thermal infrared image datasets for compute
 - **Link**: [VEDAI Dataset](https://downloads.greyc.fr/vedai/)
 - **Key Features**: 1,210 image pairs, 9 vehicle categories, aerial perspective
 - **Paper**: "Vehicle Detection in Aerial Imagery: A small target detection benchmark" (Journal of Visual Communication and Image Representation 2016)
+
+## Building Analysis
+
+### TBBR Dataset (Thermal Building Boundary Recognition)
+- **Description**: Thermal infrared images for building detection and boundary recognition
+- **Link**: [TBBR Dataset](https://github.com/looooongChen/TBBR)
+- **Key Features**: Building façade thermal images, boundary annotations, architectural analysis
+- **Paper**: "Building Extraction from Remote Sensing Images with Sparse Token Transformers" (Remote Sensing 2021)
+- **Additional Modalities**: May include range images
+
+### KIT & Munich UAV Thermal Dataset
+- **Description**: UAV-based thermal infrared imagery for urban scene analysis
+- **Link**: [KIT Campus Dataset](http://www.cvlibs.net/datasets/karlsruhe_sequences/)
+- **Key Features**: Aerial thermal imagery, urban environments, multi-sensor data
+- **Paper**: Various publications from KIT
+- **Additional Modalities**: May include lidar point clouds, 3D models
+
+### TUM2TWIN Dataset
+- **Description**: TUM (Technical University of Munich) multi-modal dataset for digital twin creation
+- **Link**: [TUM2TWIN](https://www.asg.ed.tum.de/en/gis/research/datasets/)
+- **Key Features**: Building-focused thermal imagery, registration with other modalities
+- **Paper**: "TUM2TWIN: A Digital Twin Integrating Geodetic Monitoring for Risk Assessment of Transport Infrastructure" (Remote Sensing 2023)
+- **Additional Modalities**: Includes lidar point clouds, 3D models, range images
+
+### TUM-MLS2016 Dataset
+- **Description**: Mobile laser scanning dataset with thermal infrared imagery
+- **Link**: [TUM-MLS2016](https://www.asg.ed.tum.de/en/gis/research/datasets/)
+- **Key Features**: Mobile mapping system data, thermal images, urban environments
+- **Paper**: "The TUM-MLS-2016 Dataset" (ISPRS Annals 2017)
+- **Additional Modalities**: Includes lidar point clouds, 3D models, range images
 
 ## Contributing
 
