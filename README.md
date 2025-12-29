@@ -151,18 +151,18 @@ A curated list of publicly available thermal infrared image datasets for compute
 ### 3D Thermal Infrared Point Cloud Datasets
 
 #### PointER Dataset (Points for Energy Renovation)
-- **Description**: Large-scale 3D building point cloud dataset with thermal infrared mapping for energy renovation
+- **Description**: Large-scale 3D building point cloud dataset linked to energy renovation (framework extensible for thermal infrared mapping)
 - **Link**: [PointER Dataset](https://github.com/kdmayer/PointER)
-- **Key Features**: Over 1 million buildings with 3D point clouds, geometry and energy efficiency certificate (EPC) linkage, framework supports thermal infrared extension
+- **Key Features**: Over 1 million buildings with 3D point clouds, geometry and energy efficiency certificate (EPC) linkage
 - **Paper**: Available on GitHub
-- **Additional Modalities**: Includes 3D point clouds, energy performance data
+- **Additional Modalities**: Includes 3D point clouds, energy performance data (thermal infrared extension supported)
 
 #### ArCH Dataset (Architectural Cultural Heritage)
-- **Description**: 3D point cloud dataset for semantic segmentation of architectural heritage with thermal infrared mapping
+- **Description**: 3D RGB point cloud dataset for semantic segmentation of architectural heritage (research extensions include thermal infrared mapping)
 - **Link**: [ArCH Dataset](https://github.com/HajarHajipourgolpayegan/ArCH)
-- **Key Features**: RGB point clouds for ancient buildings, derivative projects include thermal information for detecting thermal defects in heritage structures
+- **Key Features**: RGB point clouds for ancient buildings, used in research for detecting thermal defects in heritage structures
 - **Paper**: Research from University of Strasbourg
-- **Additional Modalities**: Includes 3D RGB point clouds, thermal mapping extensions
+- **Additional Modalities**: Includes 3D RGB point clouds (thermal mapping available in research extensions)
 
 #### TSDN Dataset (ThermalGS - Dynamic 3D Reconstruction)
 - **Description**: Dynamic 3D thermal infrared reconstruction using Gaussian Splatting technique
@@ -199,7 +199,7 @@ A curated list of publicly available thermal infrared image datasets for compute
 #### Thermo-presence Dataset
 - **Description**: Low-resolution thermal infrared sensor data for occupancy detection in office environments
 - **Link**: [Thermo-presence Dataset](https://zenodo.org/record/4431435)
-- **Key Features**: 24x32 resolution infrared sensor data for personnel detection, optimized for HVAC energy efficiency
+- **Key Features**: 24x32 resolution thermal infrared sensor data for personnel detection, optimized for HVAC energy efficiency
 - **Paper**: Available on Zenodo
 - **Additional Modalities**: N/A
 
