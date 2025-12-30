@@ -18,7 +18,7 @@ A curated list of publicly available thermal infrared image datasets for compute
 
 ### FLIR ADAS Dataset
 - **Description**: Large-scale thermal infrared dataset for autonomous driving applications with over 10,000 annotated thermal images
-- **Link**: [FLIR ADAS Dataset](https://www.flir.com/oem/adas/adas-dataset-form/)
+- **Link**: [FLIR ADAS Dataset](https://oem.flir.com/solutions/automotive/adas-dataset-form/)(https://oem.flir.com/solutions/automotive/dataset/)(https://www.kaggle.com/datasets/deepnewbie/flir-thermal-images-dataset/)
 - **Key Features**: Pre-labeled objects (person, bike, car, etc.), day/night scenarios, aligned RGB-thermal pairs
 - **Paper**: N/A (Industry dataset)
 - **Additional Modalities**: Includes aligned RGB images
@@ -41,7 +41,7 @@ A curated list of publicly available thermal infrared image datasets for compute
 
 ### CVC-14 Thermal-RGBD Dataset
 - **Description**: Thermal infrared image sequences with RGB-D for pedestrian detection
-- **Link**: [CVC-14 Dataset](http://adas.cvc.uab.es/elektra/enigma-portfolio/cvc-14-visible-fir-day-night-pedestrian-sequence-dataset/)
+- **Link**: [CVC-14 Dataset](https://github.com/CalayZhou/Multispectral-Pedestrian-Detection-Resource)
 - **Key Features**: Day/night sequences, thermal-RGB-Depth fusion
 - **Paper**: N/A
 - **Additional Modalities**: Includes RGB and depth images
@@ -73,7 +73,8 @@ A curated list of publicly available thermal infrared image datasets for compute
 
 ### SODA Dataset (Salient Object Detection in Adverse Conditions)
 - **Description**: Thermal images for salient object detection
-- **Link**: [SODA Dataset](https://github.com/zwbx/SODA)
+- **Link**: [UVT20K Dataset](https://github.com/Angknpng/PCNet)
+- --[other])(https://github.com/zyrant/Summary-of-RGB-T-Salient-Object-Detection-and-Semantic-segmentation)
 - **Key Features**: 1,900 thermal images with pixel-level annotations
 - **Paper**: "Salient Object Detection in Thermal Images" (ACM MM 2020)
 
@@ -81,14 +82,15 @@ A curated list of publicly available thermal infrared image datasets for compute
 
 ### Tufts Face Database
 - **Description**: Multi-modal face database including thermal infrared imagery
-- **Link**: [Tufts Face Database](https://www.cs.tufts.edu/~face/publications/)
+- **Link**: [Tufts Face Database](https://github.com/maxbbraun/tdface-annotations)
 - **Key Features**: 10,000+ images, multiple modalities (visible, thermal, 3D), various poses and expressions
 - **Paper**: "A Comprehensive Database for Benchmarking Imaging Systems" (BTAS 2016)
 - **Additional Modalities**: Includes visible images and 3D models
 
 ### IRIS Thermal/Visible Face Database
 - **Description**: Dual-spectrum face database with thermal infrared and visible images for recognition research
-- **Link**: [IRIS Database](http://www.cse.ohio-state.edu/otcbvs-bench/)
+- **Link**: [IRIS Database]
+- **related** [collection](https://github.com/HarrisXia/image-fusion-zoo)
 - **Key Features**: Thermal and visible face images under various conditions
 - **Paper**: N/A
 - **Additional Modalities**: Includes visible images
@@ -111,7 +113,6 @@ A curated list of publicly available thermal infrared image datasets for compute
 
 ### VEDAI Dataset (Vehicle Detection in Aerial Imagery)
 - **Description**: Aerial imagery dataset with thermal infrared and visible spectrums
-- **Link**: [VEDAI Dataset](https://downloads.greyc.fr/vedai/)
 - **Key Features**: 1,210 image pairs, 9 vehicle categories, aerial perspective
 - **Paper**: "Vehicle Detection in Aerial Imagery: A small target detection benchmark" (Journal of Visual Communication and Image Representation 2016)
 - **Additional Modalities**: Includes visible spectrum images
@@ -172,13 +173,6 @@ A curated list of publicly available thermal infrared image datasets for compute
 - **Additional Modalities**: Includes 3D dynamic reconstruction data
 
 ### Multi-Modal Urban Datasets
-
-#### KIT & Munich UAV Thermal Dataset
-- **Description**: UAV-based thermal infrared imagery for urban scene analysis
-- **Link**: [KIT Campus Dataset](http://www.cvlibs.net/datasets/karlsruhe_sequences/)
-- **Key Features**: Aerial thermal imagery, urban environments, multi-sensor data
-- **Paper**: N/A (Multiple datasets from KIT research)
-- **Additional Modalities**: May include lidar point clouds, 3D models
 
 #### TUM2TWIN Dataset
 - **Description**: TUM (Technical University of Munich) multi-modal dataset for digital twin creation
